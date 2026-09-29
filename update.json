@@ -1,7 +1,7 @@
 {
-  "version": "5.6.3",
-  "download_url": "https://raw.githubusercontent.com/Ateshhh/atesh-studio-updates/main/Atesh-Studio-5.6.3-update.zip",
-  "sha256": "8cd0040d01feee44ae4d328dfc66ac5993cec3f6be5ae5b6789f9f029ae7382c",
-  "notes": "V5.6.3: 5.6.2 arayüz tasarımı korunarak Türkçe karakter kodlaması düzeltildi.",
+  "version": "5.6.4",
+  "download_url": "https://raw.githubusercontent.com/Ateshhh/atesh-studio-updates/main/Atesh-Studio-5.6.4-update.zip",
+  "sha256": "36ffe5a81ad12a813a3d08ecf534d22da8770e03e30614eabfbded6ba563e155",
+  "notes": "V5.6.4: YouTube'da şarkı ve sanatçı arama; API anahtarını bu Windows hesabında korumalı saklama.",
   "required": false
 }
