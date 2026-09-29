@@ -1,7 +1,7 @@
 {
-  "version": "5.6.1",
-  "download_url": "https://raw.githubusercontent.com/Ateshhh/atesh-studio-updates/main/Atesh-Studio-5.6.1-update.zip",
-  "sha256": "2ff6824c273f0d5615b325e3dcd9f22737c911bf449af383a6d616d834f2fcc5",
-  "notes": "V5.6.1: yenilenmiş, Atesh kimliğine özel ana ekran tasarımı.",
+  "version": "5.6.2",
+  "download_url": "https://raw.githubusercontent.com/Ateshhh/atesh-studio-updates/main/Atesh-Studio-5.6.2-update.zip",
+  "sha256": "be3b164e3fdc54d184cf55fd190537660208fa8d84920ceda317d89db88812ea",
+  "notes": "V5.6.2: Atesh kimliğine özel yeni müzik ana ekranı; daha büyük kapaklar ve çalışan üst gezinme sekmeleri.",
   "required": false
 }
