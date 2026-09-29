@@ -1,7 +1,7 @@
 {
     "version":  "5.6.0",
-    "download_url":  "https://raw.githubusercontent.com/atesh/atesh-studio-updates/main/Atesh-Studio-5.6.0-update.zip",
-    "sha256":  "2ee0a15a125a21d22d3b4d105f9e1d41855cd73e8de88e446e7f638cea2764ec",
+    "download_url":  "https://raw.githubusercontent.com/ateshhh/atesh-studio-updates/main/Atesh-Studio-5.6.0-update.zip",
+    "sha256":  "9d1a58465907803f20aee7d676c1329f4469ae58623d84c23b8c870a7b5ce607",
     "notes":  "V5.6: kolay Windows kurulumu, uygulama içi güncelleme ve kullanıcı verilerini koruma.",
     "required":  false
 }
